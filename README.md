@@ -1,6 +1,7 @@
 # Olá, sou o Arthur 👋
 
-![Banner](https://via.placeholder.com/1200x400/0000FF/808080?text=Welcome+to+my+GitHub)
+![Banner](https://www.pxhere.com/en/photo/1088964)
+
 
 ## Sobre Mim
 
