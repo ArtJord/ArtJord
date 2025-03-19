@@ -20,7 +20,8 @@ Sou um desenvolvedor apaixonado por programação e tecnologia. Atualmente, esto
 
 ## 📈 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtJord&theme=radical)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=ArtJord&theme=github)
+
 
 
 ## Projetos Pessoais 🔥
