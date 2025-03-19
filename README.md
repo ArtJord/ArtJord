@@ -23,6 +23,11 @@ Sou um desenvolvedor apaixonado por programação e tecnologia. Atualmente, esto
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtJord&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtJord&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJord&layout=compact&theme=radical)
+
+
 ## Conecte-se comigo 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/arthur-link)
