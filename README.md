@@ -1,7 +1,5 @@
 # Olá, sou o Arthur 👋
 
-![Banner](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
-
 ## Sobre Mim
 
 Sou um desenvolvedor apaixonado por programação e tecnologia. Atualmente, estou focado no desenvolvimento back-end, especialmente com PHP, PostgreSQL, e Node.js.
