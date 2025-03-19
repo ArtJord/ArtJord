@@ -22,12 +22,3 @@ Sou um desenvolvedor apaixonado por programação e tecnologia. Atualmente, esto
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJord&layout=compact&theme=radical)
 
-## Projetos Pessoais 🔥
-
-- [Meu Projeto de PHP](https://github.com/ArtJord/phpDiariamente)
-- [Node.js Project](https://github.com/ArtJord/NodeJsProject)
-
-## Conecte-se comigo 🌐
-
-- [LinkedIn](https://www.linkedin.com/in/arthur-link)
-- [Twitter](https://twitter.com/arthur)
