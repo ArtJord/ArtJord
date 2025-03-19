@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por programação e tecnologia. Atualmente, esto
 
 ## 📈 GitHub Stats
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtJord&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtJord&show_icons=true&count_private=true&hide_title=true&theme=dark)
 
 ## 📊 GitHub Top Languages
 
