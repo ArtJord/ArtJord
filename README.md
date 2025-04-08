@@ -14,9 +14,6 @@ Sou um desenvolvedor apaixonado por programação e tecnologia. Atualmente, esto
 ![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtJord&show_icons=true&count_private=true&hide_title=true&theme=dark)
 
 ## 📊 GitHub Top Languages
 
