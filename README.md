@@ -19,6 +19,5 @@ Sou um desenvolvedor apaixonado por programação e tecnologia. Atualmente, esto
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJord&layout=compact&theme=radical)
 
-![Snake animation](https://github.com/ArtJord-github/ArtJord-github/blob/output/github-contribution-grid-snake.svg)
 
 
